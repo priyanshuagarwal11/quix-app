@@ -75,3 +75,6 @@ Store high score using localStorage
 📄 Resume Description
 
 Built an interactive Quiz App using HTML, CSS, and JavaScript featuring multiple-choice questions, score tracking, and dynamic UI updates.
+
+
+by-Priyanshu
